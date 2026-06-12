@@ -2,26 +2,7 @@
   "app": "beijing2026",
   "v": 2,
   "custom": {
-    "0": [
-      {
-        "cid": "c1781300509564",
-        "t": "09:05",
-        "name": "Today art museum",
-        "type": "sight",
-        "icon": "📍",
-        "coords": [
-          39.8986386,
-          116.4615294
-        ],
-        "wiki": null,
-        "imgUrl": null,
-        "desc": "",
-        "url": "http://www.todayartmuseum.com/cnindex.aspx",
-        "hours": "Mo-Su 10:00-10:00, 18:00-18:00",
-        "price": "",
-        "dur": ""
-      }
-    ]
+    "0": []
   },
   "overrides": {}
 }
